@@ -25,4 +25,5 @@ Bestseller pizza is a combination of Classic and Chicken pizza with the Classic 
 4. The decision to take pizzas off the menu depends entirely on the stakeholders. This analysis filters out Pizzas with less than 950 orders showing that the Brie Carrie Pizza has only 480 orders. Promotions can be done for sometime on the Brie Carrie Pizza to familiarize the customers with the pizza. If sales do not increase for the Pizza or customers do not seem to like it after the promotions, then the stakeholders could hold a discussion on the next move about the pizza.
 
 **<ins>Tool Used <ins/>**
+
 Power BI
