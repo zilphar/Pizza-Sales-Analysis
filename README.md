@@ -4,7 +4,7 @@
 
 This is an analysis on Pizza Shop sales that were carried our from the start fo January 2015 to December 2015. The analysis looks at the the sales performance of the shop throughout the year, and creates visualizations that speak the insights to be communicated to the shop stakeholders. 
 
-This is a link to the published analysis: https://app.powerbi.com/groups/me/reports/a1dbe671-883e-48e4-82de-e18bcb414bcb/ReportSectiond0b4d47ed83be90b4c51?experience=power-bi
+This is a link to the published analysis: https://app.powerbi.com/groups/me/reports/0b89dc63-0d43-4f9d-b7b1-a1c71f17f120/ReportSection16b90220c4e497c0023f?experience=power-bi
 
 NB: The data given was in four CSV files and they are joined using a full join to get the final table. 
 
